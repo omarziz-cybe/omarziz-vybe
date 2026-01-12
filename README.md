@@ -14,15 +14,5 @@ I am a Computer Science Student at **KSIU** (King Salman International Universit
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-<a href="https://github.com/omarziz-cybe">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarziz-cybe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarziz-cybe&layout=compact&theme=radical"/>
-</a>
-</div>
-
----
-
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/omar-abd-elaziz-b130a733b)
