@@ -11,4 +11,4 @@ I am a Computer Science Student at KSIU (King Salman International University), 
 C++ | OOP | Data Structures | Problem Solving
 
 ---
-[LinkedIn Profile](www.linkedin.com/in/omar-abd-elaziz-b130a733b)
+[LinkedIn Profile](linkedin.com/in/omar-abd-elaziz-b130a733b)
