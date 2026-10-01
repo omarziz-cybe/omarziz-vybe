@@ -15,4 +15,4 @@ I am a Computer Science Student at **KSIU** (King Salman International Universit
 ---
 
 ### 📫 Connect with me
-[<img src="https://www.linkedin.com/in/omar-abd-elaziz-b130a733b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abd-elaziz-b130a733b)
